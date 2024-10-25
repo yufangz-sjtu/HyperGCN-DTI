@@ -1,0 +1,953 @@
+KEGG Drug ID,Efficacy and Disease
+D00002,Coenzyme
+D00005,Supplement (vitamin B2)
+D00007,Dietary supplement
+D00014,Antidote
+D00018,Antiscorbutic
+D00018,Supplement (vitamin C)
+D00021,Supplement (phenylalanine)
+D00027,Antineoplastic (adjunct)
+D00029,Anti-inflammatory
+D00029,Supplement (biotin)
+D00032,Pharmaceutic aid (buffering agent stabilizing)
+D00035,Supplement (proline)
+D00036,Supplement (nicotinic acid)
+D00037,Pharmaceutic aid (buffering agent flavor)
+D00038,Antifungal
+D00038,Antiseptic
+D00039,Supplement (valine)
+D00041,Supplement (threonine)
+D00043,Acetylcholinesterase inhibitor
+D00043,Butyrylcholinesterase inhibitor (ophthalmic)
+D00045,Antiarrhythmic
+D00045,Cardiac depressant
+D00045,Diagnostic aid (cardiac stress test)
+D00045,Adenosine receptor agonist
+D00049,Antihyperlipidemic
+D00049,Vasodilator
+D00049,Supplement (nicotinic acid)
+D00050,Supplement (vitamin B2)
+D00052,Chelating agent (metal)
+D00054,Immunostimulant
+D00055,Choleretic
+D00065,Supplement (isoleucine)
+D00070,Anti-anemic
+D00070,Hematopoietic
+D00070,Supplement (folic acid)
+D00086,Supplement (thioctic acid)
+D00094,Antineoplastic
+D00094,Keratolytic
+D00094,Retinoic acid receptor (RAR) agonist
+D00097,Antifungal
+D00097,Keratolytic
+D00103,Pharmaceutic aid (buffering agent flavor)
+D00107,Antiallergic
+D00107,Immunosuppressant
+D00107,Calcineurin inhibitor
+D00109,Analgesic
+D00109,Anti-inflammatory
+D00109,Antipyretic
+D00109,Antirheumatic
+D00109,Antiplatelet
+D00109,COX inhibitor
+D00118,Analgesic
+D00118,Anti-inflammatory
+D00118,Antipyretic
+D00118,COX inhibitor
+D00120,Analgesic
+D00120,Anti-inflammatory
+D00120,COX inhibitor
+D00125,Antineoplastic
+D00125,Topoisomerase II inhibitor
+D00126,Analgesic
+D00126,Anti-inflammatory
+D00126,Antipyretic
+D00126,COX inhibitor
+D00127,Analgesic
+D00127,Anti-inflammatory
+D00127,Antirheumatic
+D00127,COX inhibitor
+D00129,Osteoporosis agent
+D00129,Vitamin D receptor agonist
+D00130,Analgesic
+D00130,Anti-inflammatory
+D00130,COX inhibitor
+D00131,Antialcohol dependence
+D00131,Aldehyde dehydrogenase inhibitor
+D00132,Analgesic
+D00132,Anti-inflammatory
+D00132,Antipyretic
+D00132,COX inhibitor
+D00136,Antipsychotic
+D00136,Antidyskinetic
+D00136,Neuroleptic
+D00136,Dopamine D2 receptor antagonist
+D00139,Antivitiligo
+D00139,Pigmentation agent
+D00141,Analgesic
+D00141,Anti-inflammatory
+D00141,Antipyretic
+D00141,COX inhibitor
+D00142,Antineoplastic
+D00142,Antimetabolite
+D00145,Antibacterial
+D00145,Folic acid biosynthesis inhibitor
+D00148,Antihypoprothrombinemia
+D00148,Hemostatic
+D00148,Supplement (vitamin K1)
+D00151,Analgesic
+D00151,Anti-inflammatory
+D00151,Antipyretic
+D00151,COX inhibitor
+D00153,Antineoplastic
+D00155,Antineoplastic
+D00155,Potentiator
+D00158,Anti-inflammatory
+D00158,COX inhibitor
+D00160,Antifibrinolytic
+D00160,Anti-inflammatory
+D00160,Plasmin inhibitor
+D00168,Antineoplastic
+D00168,Antimetabolite
+D00168,DNA polymerase inhibitor
+D00169,Anti-inflammatory
+D00169,COX inhibitor
+D00183,Antibacterial
+D00183,Nucleic acid biosynthesis inhibitor
+D00184,Immunosuppressant
+D00184,Calcineurin inhibitor
+D00185,Menstruation disorder agent
+D00185,Estrogen receptor agonist
+D00186,Antibacterial
+D00186,Nucleic acid biosynthesis inhibitor
+D00187,Antirachitic
+D00187,Vitamin D receptor agonist
+D00188,Antirachitic
+D00188,Vitamin D receptor agonist
+D00196,Acetylcholinesterase inhibitor (ophthalmic)
+D00198,Antihypertensive
+D00203,Antibiotic
+D00203,Antifungal
+D00203,Cell membrane function inhibitor
+D00208,Antineoplastic
+D00216,Antidiabetic
+D00216,alpha-Glucosidase inhibitor
+D00217,Analgesic
+D00217,Antipyretic
+D00218,Antiglaucoma
+D00218,Carbonic anhydrase inhibitor
+D00219,Antidiabetic
+D00219,Hypoglycemic
+D00219,Sulfonylurea receptor agonist
+D00222,Antiviral
+D00222,DNA polymerase inhibitor
+D00224,Gout suppressant
+D00224,Uric acid biosynthesis inhibitor
+D00224,Xanthine oxidase inhibitor
+D00225,Antianxiety
+D00225,Minor tranquilizer
+D00225,Sedative-hypnotic
+D00227,Bronchodilator
+D00227,Cardiotonic
+D00227,Phosphodiesterase inhibitor
+D00231,Cardiotonic
+D00231,Phosphodiesterase 3 inhibitor
+D00234,Antiallergic
+D00234,H1 receptor antagonist
+D00251,Antihypertensive
+D00251,Angiotensin-converting enzyme inhibitor
+D00252,Analgesic
+D00252,Antiepileptic
+D00270,Antipsychotic
+D00270,Anti-emetic
+D00274,Prokinetic
+D00274,Serotonin receptor agonist
+D00279,Antihyperlipidemic
+D00279,Triglyceride synthesis inhibitor
+D00279,Peroxisome proliferator-activated receptor (PPAR) alpha agonist
+D00283,Antipsychotic
+D00285,Antibacterial
+D00293,Antianxiety
+D00293,Minor tranquilizer
+D00293,Sedative-hypnotic
+D00294,Antihypoglycemia
+D00294,Antihypertensive
+D00294,ATP-sensitive potassium channel opener
+D00298,Cardiotonic
+D00300,Antiallergic
+D00300,H1 receptor antagonist
+D00315,Analgesic
+D00315,Anti-inflammatory
+D00315,COX-2 inhibitor
+D00317,Antiviral
+D00317,DNA polymerase inhibitor
+D00322,Antifungal
+D00322,Ergosterol biosynthesis inhibitor
+D00324,Anti-inflammatory
+D00324,Glucocorticoid receptor agonist
+D00325,Anti-inflammatory
+D00325,Glucocorticoid receptor agonist
+D00328,Anti-inflammatory
+D00328,Antipruritic
+D00328,Glucocorticoid receptor agonist
+D00330,Analgesic
+D00330,Anti-inflammatory
+D00330,COX inhibitor
+D00332,Anticonvulsant
+D00332,Antiepileptic
+D00333,Antiviral
+D00333,DNA polymerase inhibitor
+D00340,Antihypertensive
+D00340,Diuretic
+D00340,Na+-Cl- symport inhibitor
+D00342,Antiviral
+D00342,DNA polymerase inhibitor
+D00359,Antihyperlipidemic
+D00359,HMG-CoA reductase inhibitor
+D00362,Antihypertensive
+D00362,Angiotensin-converting enzyme inhibitor
+D00364,Antiallergic
+D00364,H1 receptor antagonist
+D00369,Antineoplastic
+D00369,Alkylating agent
+D00371,Bronchodilator
+D00371,Phosphodiesterase inhibitor
+D00377,Anti-inflammatory
+D00380,Antidiabetic
+D00380,Hypoglycemic
+D00380,Sulfonylurea receptor agonist
+D00383,Antihypertensive
+D00383,Angiotensin-converting enzyme inhibitor
+D00387,Sedative-hypnotic
+D00391,Antiviral
+D00391,Nucleic acid biosynthesis inhibitor
+D00394,Antidepressant
+D00394,Serotonin-noradrenaline reuptake inhibitor (SNRI)
+D00398,Antiviral
+D00398,DNA polymerase inhibitor
+D00401,Antithyroid
+D00401,Thyroid hormone synthesis inhibitor
+D00410,Diagnostic aid (pituitary function determination)
+D00414,Antiasthmatic
+D00414,Arachidonate 5-lipoxygenase inhibitor
+D00416,Antifungal
+D00416,Ergosterol biosynthesis inhibitor
+D00417,Cardiotonic
+D00417,Phosphodiesterase 3 inhibitor
+D00418,Antihypertensive
+D00418,Hair growth stimulant (topical)
+D00418,ATP-sensitive potassium channel opener
+D00421,Antihypertensive
+D00421,Angiotensin-converting enzyme inhibitor
+D00423,Antiviral
+D00425,Analgesic
+D00425,Anti-inflammatory
+D00425,COX inhibitor
+D00434,Antihyperlipidemic
+D00434,HMG-CoA reductase inhibitor
+D00437,Antihypertensive
+D00437,Vasodilator
+D00437,Calcium channel blocker
+D00448,Anti-inflammatory disease
+D00448,Antirheumatic
+D00449,Gout suppressant
+D00449,Uricosuric
+D00451,Antimigraine
+D00451,Vasoconstrictor
+D00451,Serotonin receptor agonist
+D00452,Analgesic
+D00452,Anti-inflammatory
+D00454,Antipsychotic
+D00455,Antisecretory (gastric acid)
+D00455,Anti-ulcerative
+D00455,Proton pump inhibitor
+D00459,Antihypertensive
+D00459,Angiotensin-converting enzyme inhibitor
+D00463,Analgesic
+D00463,Anti-inflammatory
+D00463,COX inhibitor
+D00475,Gout suppressant
+D00475,Uricosuric
+D00487,Acetylcholinesterase inhibitor
+D00488,Antimalarial
+D00494,Antiallergic
+D00494,H1 receptor antagonist
+D00496,Antidote
+D00496,Antirheumatic
+D00496,Chelating agent
+D00501,Vasodilator
+D00503,Antipsychotic
+D00503,Dopamine D2 receptor antagonist
+D00505,Antidepressant
+D00505,Monoamine oxidase (MAO) inhibitor
+D00510,Analgesic
+D00510,Anti-inflammatory
+D00510,Antipyretic
+D00510,Antirheumatic
+D00510,COX inhibitor
+D00512,Antiepileptic
+D00513,Antiarrhythmic
+D00513,Antihypertensive
+D00513,Vasodilator
+D00513,beta-Adrenergic receptor antagonist
+D00515,Antihypertensive
+D00515,Vasodilator (coronary)
+D00516,Vasodilator (coronary)
+D00518,Antiglaucoma
+D00518,Antiepileptic
+D00518,Carbonic anhydrase inhibitor
+D00519,Antihypertensive
+D00519,Diuretic
+D00519,Na+-Cl- symport inhibitor
+D00521,Antiallergic
+D00521,H1 receptor antagonist
+D00528,Stimulant (central)
+D00528,Adenosine receptor antagonist
+D00528,Phosphodiesterase inhibitor
+D00530,Sedative-hypnotic
+D00533,Anticonvulsant
+D00533,Antiepileptic
+D00535,Anticonvulsant
+D00535,Antiepileptic
+D00536,Antiepileptic
+D00537,Anticonvulsant
+D00537,Antiepileptic
+D00537,Antimigraine
+D00537,AMPA receptor antagonist
+D00538,Anticonvulsant
+D00538,Antiepileptic
+D00542,Anesthetic (inhalation)
+D00543,Anesthetic (inhalation)
+D00544,Anesthetic (inhalation)
+D00545,Anesthetic (inhalation)
+D00546,Anesthetic (inhalation)
+D00547,Anesthetic (inhalation)
+D00549,Anesthetic (intravenous)
+D00549,GABA-A receptor agonist
+D00550,Anesthetic (intravenous)
+D00550,Anticonvulsant
+D00550,Sedative-hypnotic
+D00560,Antipsychotic
+D00560,Dopamine receptor antagonist
+D00562,Antithyroid
+D00562,Thyroid hormone synthesis inhibitor
+D00563,Antidepressant
+D00563,Serotonin receptor antagonist
+D00566,Analgesic
+D00566,Anti-inflammatory
+D00566,COX inhibitor
+D00567,Analgesic
+D00567,Anti-inflammatory
+D00567,COX-2 inhibitor
+D00568,Analgesic
+D00568,Anti-inflammatory
+D00568,COX-2 inhibitor
+D00569,Antipyretic
+D00574,Adrenocortical suppressant
+D00574,Antineoplastic
+D00574,Estrogen biosynthesis inhibitor
+D00577,Tocolytic
+D00577,Estrogen receptor agonist
+D00579,Antiviral
+D00579,DNA polymerase inhibitor
+D00584,Antineoplastic
+D00584,Antimetabolite
+D00593,Antidiabetic
+D00593,Hypoglycemic
+D00593,Sulfonylurea receptor agonist
+D00596,Antidiabetic
+D00596,Peroxisome proliferator-activated receptor (PPAR) gamma agonist
+D00620,Antihypertensive
+D00620,Angiotensin-converting enzyme inhibitor
+D00621,Antihypertensive
+D00621,Vasodilator
+D00621,Angiotensin-converting enzyme inhibitor
+D00622,Antihypertensive
+D00622,Angiotensin-converting enzyme inhibitor
+D00623,Antihypertensive
+D00623,Angiotensin-converting enzyme inhibitor
+D00624,Antihypertensive
+D00624,Angiotensin-converting enzyme inhibitor
+D00625,Antidiabetic
+D00625,alpha-Glucosidase inhibitor
+D00630,Vasodilator (coronary)
+D00650,Antihypertensive
+D00650,Diuretic
+D00650,Na+-Cl- symport inhibitor
+D00651,Antihypertensive
+D00651,Diuretic
+D00651,Na+-Cl- symport inhibitor
+D00652,Antiglaucoma
+D00652,Carbonic anhydrase inhibitor
+D00653,Antiglaucoma
+D00653,Carbonic anhydrase inhibitor
+D00654,Antihypertensive
+D00654,Diuretic
+D00654,Na+-Cl- symport inhibitor
+D00655,Antiglaucoma
+D00655,Carbonic anhydrase inhibitor
+D00656,Antihypertensive
+D00656,Diuretic
+D00656,Na+-Cl- symport inhibitor
+D00658,Antihypertensive
+D00658,Diuretic
+D00658,Na+-Cl- symport inhibitor
+D00667,Antiglaucoma
+D00667,Miotic
+D00667,Acetylcholinesterase inhibitor
+D00670,Dementia therapeutic agent
+D00670,Acetylcholinesterase inhibitor
+D00691,Bronchodilator
+D00691,Cardiotonic
+D00691,Phosphodiesterase inhibitor
+D00703,Sedative-hypnotic
+D00709,Antiepileptic
+D00726,Anti-emetic
+D00726,Prokinetic
+D00726,Dopamine D2 receptor antagonist
+D00733,Anesthetic (local)
+D00749,Antirheumatic
+D00749,Dihydroorotate dehydrogenase inhibitor
+D00752,Immunosuppressant
+D00752,Inosine monophosphate dehydrogenase inhibitor
+D00753,Antineoplastic
+D00753,Immunosuppressant
+D00753,mTOR inhibitor
+D00762,Antihypertensive
+D00762,Tyrosine monooxygenase inhibitor
+D00771,Skeletal muscle relaxant
+D00781,Antiparkinsonian
+D00781,Antidyskinetic
+D00781,COMT inhibitor
+D00785,Antiparkinsonian
+D00785,Antidyskinetic
+D00785,Monoamine oxidase B (MAO-B) inhibitor
+D00786,Antiparkinsonian
+D00786,COMT inhibitor
+D00805,Anthelmintic (veterinary)
+D00805,Acetylcholinesterase inhibitor
+D00810,Analgesic
+D00810,Anti-inflammatory
+D00810,COX inhibitor
+D00813,Analgesic
+D00813,Anti-inflammatory
+D00813,COX inhibitor
+D00826,Antidepressant
+D00826,Monoamine oxidase (MAO) inhibitor
+D00827,Analgesic
+D00827,Antipyretic
+D00827,Antirheumatic
+D00827,COX inhibitor
+D00829,Antineoplastic
+D00829,Antiprotozoal
+D00829,Ornithine decarboxylase inhibitor
+D00882,Antifungal
+D00882,Ergosterol biosynthesis inhibitor
+D00884,Antibacterial
+D00884,Antifungal
+D00885,Antifungal
+D00885,Ergosterol biosynthesis inhibitor
+D00887,Antihyperlipidemic
+D00887,HMG-CoA reductase inhibitor
+D00889,Antihyperlipidemic
+D00889,HMG-CoA reductase inhibitor
+D00892,Antihyperlipidemic
+D00892,HMG-CoA reductase inhibitor
+D00893,Antihyperlipidemic
+D00893,HMG-CoA reductase inhibitor
+D00900,Antiviral
+D00900,Neuraminidase inhibitor
+D00902,Antiviral
+D00902,Neuraminidase inhibitor
+D00903,Anti-inflammatory
+D00903,COX inhibitor
+D00904,Analgesic
+D00904,Anti-inflammatory
+D00904,Antipyretic
+D00904,COX inhibitor
+D00947,Antibacterial
+D00947,Protein biosynthesis inhibitor
+D00960,Antineoplastic
+D00960,Estrogen biosynthesis inhibitor
+D00963,Antineoplastic
+D00963,Estrogen biosynthesis inhibitor
+D00964,Antineoplastic
+D00964,Estrogen biosynthesis inhibitor
+D00965,Antineoplastic
+D00965,Androgen receptor antagonist
+D00968,Analgesic
+D00968,Anti-inflammatory
+D00968,COX inhibitor
+D00969,Analgesic
+D00969,Anti-inflammatory
+D00969,COX-2 inhibitor
+D00970,Analgesic
+D00970,Anti-inflammatory
+D00970,Antipyretic
+D00970,COX inhibitor
+D00994,Antidote (to curare principles)
+D00994,Diagnostic aid (myasthenia gravis)
+D00995,Parasympathomimetic
+D00995,Acetylcholinesterase inhibitor
+D00998,Parasympathomimetic
+D00998,Acetylcholinesterase inhibitor
+D01001,Acetylcholinesterase inhibitor
+D01027,Anti-anemic
+D01027,Hematopoietic
+D01027,Supplement (vitamin B12)
+D01061,Antineoplastic
+D01061,Topoisomerase I inhibitor
+D01064,Antineoplastic
+D01064,Antimetabolite
+D01069,Antihypertensive
+D01069,Angiotensin-converting enzyme inhibitor
+D01071,Sedative-hypnotic
+D01097,Antiparkinsonian
+D01097,Dementia therapeutic agent
+D01097,Monoamine oxidase B (MAO-B) inhibitor
+D01118,Antiparkinsonian
+D01118,Muscarinic acetylcholine receptor antagonist
+D01119,Antihypertensive
+D01119,Angiotensin-converting enzyme inhibitor
+D01122,Analgesic
+D01122,Anti-inflammatory
+D01122,COX inhibitor
+D01133,Cardiotonic
+D01133,Phosphodiesterase inhibitor
+D01136,Antifibrinolytic
+D01136,Anti-inflammatory
+D01136,Plasmin inhibitor
+D01164,Antipsychotic
+D01164,Dopamine receptor partial agonist
+D01164,Serotonin receptor agonist/antagonist
+D01180,Antisecretory (hormone)
+D01180,Adrenocortical hormone biosynthesis inhibitor
+D01183,Anti-inflammatory
+D01183,COX inhibitor
+D01196,Antiglaucoma
+D01196,Carbonic anhydrase inhibitor
+D01198,Cardiotonic
+D01198,Phosphodiesterase inhibitor
+D01211,Anti-anemic (folate deficiency)
+D01211,Antidote (antifolate)
+D01211,Antineoplastic (enhancer)
+D01211,Supplement (folic acid)
+D01223,Antineoplastic
+D01223,Antimetabolite
+D01228,Acetylcholinesterase inhibitor
+D01240,Cardiotonic
+D01256,Antihypertensive
+D01256,Diuretic
+D01264,Antineoplastic
+D01264,Topoisomerase II inhibitor
+D01275,Antineoplastic
+D01275,Topoisomerase II inhibitor
+D01276,Antiviral
+D01276,HIV protease inhibitor
+D01325,Analgesic
+D01325,Anti-inflammatory
+D01325,COX inhibitor
+D01332,Antiallergic
+D01332,Antiasthmatic
+D01332,H1 receptor antagonist
+D01346,Diagnostic aid (pancreas function determination)
+D01364,Antifungal
+D01367,Anti-inflammatory
+D01367,Glucocorticoid receptor agonist
+D01370,Antineoplastic
+D01370,Antimetabolite
+D01397,Analgesic
+D01397,Anti-inflammatory
+D01397,Antirheumatic
+D01397,COX inhibitor
+D01425,Antiviral
+D01425,HIV protease inhibitor
+D01432,Antineoplastic
+D01432,Topoisomerase I inhibitor
+D01441,Antineoplastic
+D01441,Tyrosine kinase inhibitor
+D01475,Analgesic
+D01475,COX inhibitor
+D01513,Anti-inflammatory
+D01513,COX inhibitor
+D01547,Analgesic
+D01547,Anti-inflammatory
+D01547,COX-2 inhibitor
+D01549,Antihypertensive
+D01549,Angiotensin-converting enzyme inhibitor
+D01565,Analgesic
+D01565,Anti-inflammatory
+D01565,COX inhibitor
+D01578,Analgesic
+D01578,Anti-inflammatory
+D01578,Antipyretic
+D01578,COX inhibitor
+D01582,Analgesic
+D01582,Anti-inflammatory
+D01582,Antipyretic
+D01582,COX inhibitor
+D01665,Antidiabetic
+D01665,alpha-Glucosidase inhibitor
+D01667,Antihypertensive
+D01667,Angiotensin-converting enzyme inhibitor
+D01688,Hypoglycemic
+D01688,Aldose reductase inhibitor
+D01690,Cardiotonic
+D01690,Phosphodiesterase inhibitor
+D01704,Antiasthmatic
+D01704,Anti-inflammatory
+D01704,Phosphodiesterase IV inhibitor
+D01709,Analgesic
+D01709,Anti-inflammatory
+D01709,Antipyretic
+D01709,COX inhibitor
+D01712,Bronchodilator
+D01712,Phosphodiesterase inhibitor
+D01715,Hypoglycemic
+D01715,Aldose reductase inhibitor
+D01718,Analgesic
+D01718,Anti-inflammatory
+D01718,COX inhibitor
+D01747,Antineoplastic
+D01747,Topoisomerase II inhibitor
+D01765,Analgesic
+D01765,Anti-inflammatory
+D01765,COX inhibitor
+D01767,Anti-inflammatory
+D01767,COX inhibitor
+D01811,Analgesic
+D01825,Anti-inflammatory
+D01825,Glucocorticoid receptor agonist
+D01828,Antiallergic
+D01828,Mediator release inhibitor
+D01840,Vasodilator
+D01840,Rho-associated kinase inhibitor
+D01842,Hypoglycemic
+D01842,Aldose reductase inhibitor
+D01844,Antithrombotic
+D01844,Factor Xa inhibitor
+D01862,Antihyperlipidemic
+D01862,HMG-CoA reductase inhibitor
+D01866,Analgesic
+D01866,Anti-inflammatory
+D01866,COX-2 inhibitor
+D01885,Antineoplastic
+D01885,Topoisomerase II inhibitor
+D01888,Antidepressant
+D01888,Monoamine oxidase (MAO) inhibitor
+D01900,Antihypertensive
+D01900,Angiotensin-converting enzyme inhibitor
+D01907,Antineoplastic
+D01907,Antimetabolite
+D01911,Antineoplastic
+D01911,Topoisomerase inhibitor
+D01915,Antihyperlipidemic
+D01915,HMG-CoA reductase inhibitor
+D01918,Anti-inflammatory disease
+D01918,Elastase inhibitor
+D01966,Antihyperlipidemic
+D01966,Cholesterol absorption inhibitor
+D01968,Antihypercalcemia
+D01968,Antiresorptive
+D01968,Farnesylpyrophosphate synthetase inhibitor
+D01973,Antimigraine
+D01973,Vasoconstrictor
+D01973,Serotonin receptor agonist
+D01974,Anti-inflammatory
+D01974,COX-2 inhibitor
+D01977,Antineoplastic
+D01977,Receptor tyrosine kinase inhibitor
+D01981,Anticoagulant
+D01981,Thrombin inhibitor
+D01984,Antisecretory (gastric acid)
+D01984,Anti-ulcerative
+D01984,Proton pump inhibitor
+D02008,Antihypertensive
+D02008,Impotence therapy
+D02008,Phosphodiesterase V inhibitor
+D02017,Bronchodilator
+D02017,Phosphodiesterase inhibitor
+D02042,Cardiotonic
+D02042,Phosphodiesterase 3 inhibitor
+D02068,Dementia therapeutic agent
+D02068,Acetylcholinesterase inhibitor
+D02110,Anti-inflammatory
+D02110,Cardiovascular agent
+D02110,COX inhibitor
+D02115,Antineoplastic
+D02115,Antimetabolite
+D02166,Antineoplastic
+D02166,Topoisomerase II inhibitor
+D02168,Antineoplastic
+D02168,Topoisomerase I inhibitor
+D02173,Dementia therapeutic agent
+D02173,Acetylcholinesterase inhibitor
+D02176,Replenisher (carnitine)
+D02193,Miotic
+D02193,Butyrylcholinesterase inhibitor
+D02194,Potentiator (antibacterial)
+D02194,Dehydropeptidase I inhibitor
+D02214,Antineoplastic
+D02214,Topoisomerase II inhibitor
+D02229,Vasodilator
+D02229,Impotence therapy
+D02229,Phosphodiesterase V inhibitor
+D02258,Antihyperlipidemic
+D02258,HMG-CoA reductase inhibitor
+D02267,Antiviral
+D02267,DNA polymerase inhibitor
+D02289,Anti-inflammatory (ophthalmic)
+D02289,Glucocorticoid receptor agonist
+D02290,Analgesic
+D02290,Anti-inflammatory
+D02290,COX inhibitor
+D02304,Supplement (lysine)
+D02308,Antipsoriatic
+D02308,Pharmaceutic aid (acidifier)
+D02315,Pharmaceutic aid (emulsifying)
+D02321,Antineoplastic
+D02321,Topoisomerase II inhibitor
+D02323,Hypoglycemic
+D02323,Aldose reductase inhibitor
+D02328,Antidiabetic
+D02328,Aldose reductase inhibitor
+D02333,Antibacterial
+D02335,Hemostatic
+D02335,Supplement (vitamin K)
+D02341,Anti-inflammatory
+D02341,COX inhibitor
+D02342,Antihypertensive
+D02342,beta1-Adrenergic receptor antagonist
+D02350,Analgesic
+D02350,Anti-inflammatory
+D02350,COX inhibitor
+D02355,Anti-inflammatory
+D02355,COX inhibitor
+D02356,Antiarrhythmic
+D02356,Vasodilator
+D02356,Calcium channel blocker
+D02368,Antineoplastic
+D02368,Antimetabolite
+D02375,Antifungal
+D02375,Ergosterol biosynthesis inhibitor
+D02418,Acetylcholinesterase inhibitor (ophthalmic)
+D02441,Antiglaucoma
+D02441,Diuretic
+D02441,Carbonic anhydrase inhibitor
+D02451,Antineoplastic
+D02451,Estrogen biosynthesis inhibitor
+D02487,Antimalarial
+D02556,Antifungal
+D02556,Ergosterol biosynthesis inhibitor
+D02558,Dementia therapeutic agent
+D02558,Acetylcholinesterase inhibitor
+D02559,Antidepressant
+D02559,Monoamine oxidase A (MAO-A) inhibitor
+D02560,Antidepressant
+D02560,Monoamine oxidase A (MAO-A) inhibitor
+D02561,Antidepressant
+D02561,Monoamine oxidase A (MAO-A) inhibitor
+D02562,Antiparkinsonian
+D02562,Monoamine oxidase B (MAO-B) inhibitor
+D02563,Antidepressant
+D02563,Monoamine oxidase A (MAO-A) inhibitor
+D02564,Antidepressant
+D02564,Antihypertensive
+D02564,Monoamine oxidase (MAO) inhibitor
+D02566,Antidepressant
+D02566,Selective noradrenaline reuptake inhibitor (NRI)
+D02579,Antibacterial (tuberculostatic)
+D02579,Antidepressant
+D02579,Monoamine oxidase (MAO) inhibitor
+D02580,Antidepressant
+D02580,Monoamine oxidase (MAO) inhibitor
+D02581,Antidepressant
+D02581,Monoamine oxidase A (MAO-A) inhibitor
+D02655,Antipsychotic
+D02671,Antipsychotic
+D02698,Antineoplastic
+D02698,Topoisomerase II inhibitor
+D02709,Analgesic
+D02709,Anti-inflammatory
+D02709,COX-2 inhibitor
+D02729,Prokinetic
+D02729,Dopamine receptor antagonist
+D02731,Vasodilator
+D02731,Impotence therapy
+D02731,Phosphodiesterase V inhibitor
+D02756,Antineoplastic
+D02756,Topoisomerase inhibitor
+D02769,Supplement (nutrient)
+D02835,Antidiabetic
+D02835,Aldose reductase inhibitor
+D02880,Antineoplastic
+D02880,Cyclin-dependent kinase (CDK) inhibitor
+D03012,Antihyperlipidemic
+D03012,Cholesterol acyltransferase (ACAT) inhibitor
+D03034,Anti-acne
+D03034,Thioredoxin reductase inhibitor
+D03077,Antihypertensive
+D03077,Angiotensin-converting enzyme inhibitor
+D03115,Vasodilator
+D03115,Rho-associated kinase inhibitor
+D03208,Antihypertensive
+D03208,Renin inhibitor
+D03217,Impotence therapy
+D03217,Phosphodiesterase V inhibitor
+D03218,Antineoplastic
+D03218,Receptor tyrosine kinase inhibitor
+D03252,Antineoplastic
+D03252,Tyrosine kinase inhibitor
+D03260,Vasodilator
+D03260,Impotence therapy
+D03260,Phosphodiesterase V inhibitor
+D03350,Antineoplastic
+D03350,Receptor tyrosine kinase inhibitor
+D03365,Smoking cessation adjunct
+D03433,Antiviral
+D03433,Maturation inhibitor
+D03440,Antihypertensive
+D03440,Angiotensin-converting enzyme inhibitor
+D03601,Antihyperlipidemic
+D03601,HMG-CoA reductase inhibitor
+D03643,Antihyperlipidemic
+D03643,HMG-CoA reductase inhibitor
+D03670,Antidote (iron)
+D03670,Chelating agent
+D03689,Analgesic
+D03689,Anti-inflammatory
+D03689,COX-2 inhibitor
+D03710,Analgesic
+D03710,Anti-inflammatory
+D03710,COX-2 inhibitor
+D03712,Analgesic
+D03712,Anti-inflammatory
+D03712,Antipyretic
+D03712,COX-2 inhibitor
+D03714,Anti-inflammatory
+D03714,COX-2 inhibitor
+D03716,Analgesic
+D03716,Anti-inflammatory
+D03716,COX-2 inhibitor
+D03717,Analgesic
+D03717,Anti-inflammatory
+D03717,COX-2 inhibitor
+D03720,Antineoplastic
+D03722,Anticoagulant
+D03722,Thrombin inhibitor
+D03728,Anticoagulant
+D03728,Thrombin inhibitor
+D03731,Antidepressant
+D03731,Antiparkinsonian
+D03731,Monoamine oxidase B (MAO-B) inhibitor
+D03733,Antiparkinsonian
+D03733,Monoamine oxidase B (MAO-B) inhibitor
+D03734,Antihyperlipidemic
+D03734,Cholesterol acyltransferase (ACAT) inhibitor
+D03735,Antihyperlipidemic
+D03735,Cholesterol acyltransferase (ACAT) inhibitor
+D03736,Antipsoriatic
+D03736,Antirheumatic
+D03736,Mitogen-activated protein kinase inhibitor
+D03738,Antihypertensive
+D03738,Renin inhibitor
+D03741,Antihypertensive
+D03741,Renin inhibitor
+D03743,Antihypertensive
+D03743,Renin inhibitor
+D03745,Antihypertensive
+D03745,Renin inhibitor
+D03751,Dementia therapeutic agent
+D03751,Acetylcholinesterase inhibitor
+D03752,Antihypertensive
+D03752,Angiotensin-converting enzyme inhibitor
+D03753,Antihypertensive
+D03753,Angiotensin-converting enzyme inhibitor
+D03756,Antihypertensive
+D03756,Angiotensin-converting enzyme inhibitor
+D03758,Antihypertensive
+D03758,Angiotensin-converting enzyme inhibitor
+D03760,Antihypertensive
+D03760,Angiotensin-converting enzyme inhibitor
+D03763,Antihypertensive
+D03763,Angiotensin-converting enzyme inhibitor
+D03765,Antihypertensive
+D03765,Angiotensin-converting enzyme inhibitor
+D03767,Antihypertensive
+D03767,Angiotensin-converting enzyme inhibitor
+D03769,Antihypertensive
+D03769,Angiotensin-converting enzyme inhibitor
+D03772,Antihypertensive
+D03772,Angiotensin-converting enzyme inhibitor
+D03773,Antihypertensive
+D03773,Angiotensin-converting enzyme inhibitor
+D03775,Antihypertensive
+D03775,Angiotensin-converting enzyme inhibitor
+D03776,Antihypertensive
+D03776,Angiotensin-converting enzyme inhibitor
+D03778,Antineoplastic
+D03778,Estrogen biosynthesis inhibitor
+D03781,Antipsoriatic
+D03784,Antineoplastic
+D03784,Estrogen biosynthesis inhibitor
+D03787,Cardiotonic
+D03787,Dopamine beta-hydroxylase inhibitor
+D03788,Anti-inflammatory disease
+D03788,Elastase inhibitor
+D03798,Anticoagulant
+D03798,Vitamin K antagonist
+D03803,Hypoglycemic
+D03803,Aldose reductase inhibitor
+D03805,Hypoglycemic
+D03805,Aldose reductase inhibitor
+D03806,Aldose reductase inhibitor
+D03807,Hypoglycemic
+D03807,Aldose reductase inhibitor
+D03816,Antihyperlipidemic
+D03816,HMG-CoA reductase inhibitor
+D03822,Dementia therapeutic agent
+D03822,Acetylcholinesterase inhibitor
+D03823,Dementia therapeutic agent
+D03823,Acetylcholinesterase inhibitor
+D03826,Acetylcholinesterase inhibitor (ophthalmic)
+D03828,Antineoplastic
+D03828,Antimetabolite
+D03829,Antiviral
+D03829,Neuraminidase inhibitor
+D03845,Antiglaucoma
+D03845,Carbonic anhydrase inhibitor
+D03882,Arachidonate 5-lipoxygenase inhibitor
+D03899,Antineoplastic
+D03899,Topoisomerase II inhibitor
+D04023,Antineoplastic
+D04023,Receptor tyrosine kinase inhibitor
+D04024,Antineoplastic
+D04024,Receptor tyrosine kinase inhibitor
+D04025,Antineoplastic
+D04025,Receptor tyrosine kinase inhibitor
+D04028,Antiobesity
+D04028,Pancreatic lipase inhibitor
+D04029,Anticoagulant
+D04029,Antithrombotic
+D04029,Factor Xa inhibitor
+D04031,Antineoplastic
+D04031,Topoisomerase I inhibitor
+D04092,Stimulant (central)
+D04092,Monoamine oxidase (MAO) inhibitor
+D04197,Antineoplastic
+D04197,Antiviral
+D04197,Antimetabolite
+D04292,Dementia therapeutic agent
+D04292,Acetylcholinesterase inhibitor
+D04966,Antidiabetic
+D04966,Hypoglycemic
+D04966,AMP kinase activator
+D04983,Urinary acidifier
+D05341,Diagnostic aid (ultrasound contrast medium)
+D05353,Anti-ulcerative
+D05353,Proton pump inhibitor
+D05407,Antiviral
+D05407,DNA polymerase inhibitor
+D05458,Appetite suppressant
+D06238,Antineoplastic
+D06238,Antimetabolite
