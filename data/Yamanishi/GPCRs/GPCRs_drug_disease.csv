@@ -1,0 +1,496 @@
+KEGG Drug ID,Efficacy and Disease
+D00049,Antihyperlipidemic
+D00049,Vasodilator
+D00049,Supplement (nicotinic acid)
+D00059,Antiparkinsonian
+D00079,Oxytocic
+D00079,Prostaglandin E2 receptor agonist
+D00094,Antineoplastic
+D00094,Keratolytic
+D00094,Retinoic acid receptor (RAR) agonist
+D00095,Bronchodilator
+D00095,Vasoconstrictor
+D00095,Adrenergic receptor agonist
+D00106,Platelet aggregation inhibitor
+D00106,Prostaglandin I2 receptor agonist
+D00110,Anesthetic (topical)
+D00110,Narcotic
+D00113,Mydriatic
+D00113,Muscarinic acetylcholine receptor antagonist
+D00136,Antipsychotic
+D00136,Antidyskinetic
+D00136,Neuroleptic
+D00136,Dopamine D2 receptor antagonist
+D00139,Antivitiligo
+D00139,Pigmentation agent
+D00180,Vasodilator
+D00180,Prostaglandin E1 receptor agonist
+D00225,Antianxiety
+D00225,Minor tranquilizer
+D00225,Sedative-hypnotic
+D00227,Bronchodilator
+D00227,Cardiotonic
+D00227,Phosphodiesterase inhibitor
+D00232,Antispasmodic
+D00232,Muscarinic acetylcholine receptor antagonist
+D00234,Antiallergic
+D00234,H1 receptor antagonist
+D00235,Antiarrhythmic
+D00235,Antihypertensive
+D00235,Vasodilator
+D00235,beta1-Adrenergic receptor antagonist
+D00241,Antispasmodic
+D00241,Muscle relaxant
+D00241,GABA-B receptor agonist
+D00255,Antihypertensive
+D00255,alpha1/beta-Adrenergic receptor antagonist
+D00270,Antipsychotic
+D00270,Anti-emetic
+D00274,Prokinetic
+D00274,Serotonin receptor agonist
+D00281,Antihypertensive
+D00281,alpha2-Adrenergic receptor agonist
+D00283,Antipsychotic
+D00295,Anti-ulcerative
+D00295,H2 receptor antagonist
+D00300,Antiallergic
+D00300,H1 receptor antagonist
+D00301,Antidiarrheal (adjunct)
+D00306,Anti-emetic
+D00306,Cannabinoid receptor agonist
+D00318,Anti-ulcerative
+D00318,H2 receptor antagonist
+D00332,Anticonvulsant
+D00332,Antiepileptic
+D00336,Antidiabetic
+D00336,Hypoglycemic
+D00356,Antiglaucoma
+D00356,Prostaglandin F receptor agonist
+D00364,Antiallergic
+D00364,H1 receptor antagonist
+D00371,Bronchodilator
+D00371,Phosphodiesterase inhibitor
+D00380,Antidiabetic
+D00380,Hypoglycemic
+D00380,Sulfonylurea receptor agonist
+D00394,Antidepressant
+D00394,Serotonin-noradrenaline reuptake inhibitor (SNRI)
+D00397,Mydriatic
+D00397,Muscarinic acetylcholine receptor antagonist
+D00400,Antihypertensive
+D00400,Angiotensin II receptor antagonist
+D00410,Diagnostic aid (pituitary function determination)
+D00411,Antiasthmatic
+D00411,Leukotriene receptor antagonist
+D00415,Antimigraine
+D00415,Vasoconstrictor
+D00415,Serotonin receptor agonist
+D00419,Anti-ulcerative
+D00419,Prostaglandin E receptor agonist
+D00422,Anti-ulcerative
+D00422,H2 receptor antagonist
+D00426,Antipsychotic
+D00426,Neuroleptic
+D00432,Antiarrhythmic
+D00432,Antihypertensive
+D00432,Vasodilator
+D00432,beta-Adrenergic receptor antagonist
+D00437,Antihypertensive
+D00437,Vasodilator
+D00437,Calcium channel blocker
+D00440,Anti-ulcerative
+D00440,H2 receptor antagonist
+D00442,Antisecretory (hormone)
+D00442,Somatostatin receptor agonist
+D00443,Antihypertensive
+D00443,Diuretic
+D00443,Aldosterone antagonist
+D00451,Antimigraine
+D00451,Vasoconstrictor
+D00451,Serotonin receptor agonist
+D00454,Antipsychotic
+D00465,Antipollakisuria
+D00465,Overactive bladder agent
+D00465,Muscarinic acetylcholine receptor antagonist
+D00480,Antiallergic
+D00480,Anti-emetic
+D00480,Antiparkinsonian
+D00480,H1 receptor antagonist
+D00483,Antiarrhythmic
+D00483,Antihypertensive
+D00483,Vasodilator
+D00483,beta-Adrenergic receptor antagonist
+D00493,Antipsychotic
+D00493,Anti-emetic
+D00493,Dopamine D2 receptor antagonist
+D00494,Antiallergic
+D00494,H1 receptor antagonist
+D00498,Analgesic
+D00498,Opioid receptor agonist/antagonist
+D00499,Sedative-hypnotic
+D00503,Antipsychotic
+D00503,Dopamine D2 receptor antagonist
+D00509,Vasodilator
+D00509,Diagnostic
+D00509,alpha-Adrenergic receptor antagonist
+D00513,Antiarrhythmic
+D00513,Antihypertensive
+D00513,Vasodilator
+D00513,beta-Adrenergic receptor antagonist
+D00514,Sedative-hypnotic
+D00514,Tranquilizer
+D00514,alpha2-Adrenergic receptor agonist
+D00520,Anti-emetic
+D00520,Antivertigo
+D00520,H1 receptor antagonist
+D00521,Antiallergic
+D00521,H1 receptor antagonist
+D00522,Antihypertensive
+D00522,Angiotensin II receptor antagonist
+D00523,Antihypertensive
+D00523,Angiotensin II receptor antagonist
+D00524,Antihypertensive (intraocular)
+D00524,Muscarinic acetylcholine receptor agonist
+D00525,Antiglaucoma
+D00525,Muscarinic acetylcholine receptor agonist
+D00528,Stimulant (central)
+D00528,Adenosine receptor antagonist
+D00528,Phosphodiesterase inhibitor
+D00540,Anti-ulcerative
+D00540,Bronchodilator
+D00540,Muscarinic acetylcholine receptor antagonist
+D00542,Anesthetic (inhalation)
+D00559,Antidepressant
+D00559,Antiparkinsonian
+D00559,Dopamine receptor agonist
+D00560,Antipsychotic
+D00560,Dopamine receptor antagonist
+D00563,Antidepressant
+D00563,Serotonin receptor antagonist
+D00574,Adrenocortical suppressant
+D00574,Antineoplastic
+D00574,Estrogen biosynthesis inhibitor
+D00598,Antiglaucoma
+D00598,Antihypertensive
+D00598,Vasodilator
+D00598,beta1-Adrenergic receptor antagonist
+D00601,Antiarrhythmic
+D00601,Antihypertensive
+D00601,Vasodilator
+D00601,beta1-Adrenergic receptor antagonist
+D00604,Antihypertensive
+D00604,alpha2-Adrenergic receptor agonist
+D00606,Antihypertensive
+D00606,alpha2-Adrenergic receptor agonist
+D00607,Antihypertensive
+D00607,alpha-Adrenergic receptor agonist
+D00609,Antihypertensive
+D00609,alpha1-Adrenergic receptor antagonist
+D00613,Antihypertensive
+D00613,Dopamine D1 receptor agonist
+D00627,Antihypertensive
+D00627,Angiotensin II receptor antagonist
+D00632,Cardiotonic
+D00632,beta1-Adrenergic receptor agonist
+D00635,Antihypertensive
+D00635,Vasodilator
+D00635,beta1-Adrenergic receptor antagonist
+D00645,Antiarrhythmic
+D00646,Overactive bladder agent
+D00646,Muscarinic acetylcholine receptor antagonist
+D00665,Antiallergic
+D00665,H1 receptor antagonist
+D00666,Antiallergic
+D00666,H1 receptor antagonist
+D00673,Anti-ulcerative
+D00673,H2 receptor antagonist
+D00674,Antimigraine
+D00674,Vasoconstrictor
+D00674,Serotonin receptor agonist
+D00675,Antimigraine
+D00675,Vasoconstrictor
+D00675,Serotonin receptor agonist
+D00676,Antimigraine
+D00676,Vasoconstrictor
+D00676,Serotonin receptor agonist
+D00682,Oxytocic
+D00682,Prostaglandin F receptor agonist
+D00683,Bronchodilator
+D00683,beta2-Adrenergic receptor agonist
+D00684,Bronchodilator
+D00684,beta2-Adrenergic receptor agonist
+D00687,Bronchodilator
+D00687,beta2-Adrenergic receptor agonist
+D00688,Bronchodilator
+D00688,beta2-Adrenergic receptor agonist
+D00715,Antispasmodic
+D00715,Muscarinic acetylcholine receptor antagonist
+D00726,Anti-emetic
+D00726,Prokinetic
+D00726,Dopamine D2 receptor antagonist
+D00760,Neuromuscular blocking agent
+D00765,Skeletal muscle relaxant
+D00765,Neuromuscular blocking agent
+D00765,Muscarinic acetylcholine receptor antagonist
+D00769,Anticoagulant
+D00769,Platelet aggregation inhibitor
+D00769,Purinergic receptor P2Y12 antagonist
+D00775,Nerve cells protectant
+D00779,Antiparkinsonian
+D00779,Muscarinic acetylcholine receptor antagonist
+D00780,Antiparkinsonian
+D00780,Dopamine D2 receptor agonist
+D00780,Prolactin inhibitor
+D00790,Antipsychotic
+D00790,Dopamine receptor antagonist
+D00837,Analgesic
+D00837,Antitussive
+D00837,Opioid receptor agonist/antagonist
+D00838,Analgesic
+D00838,Opioid receptor agonist/antagonist
+D00845,Analgesic (narcotic)
+D00845,Opioid receptor agonist
+D00954,Contraceptive
+D00954,Progesterone receptor agonist
+D00965,Antineoplastic
+D00965,Androgen receptor antagonist
+D00987,Antiparkinsonian
+D00987,Antidyskinetic
+D00987,Dopamine D2 receptor agonist
+D00987,Prolactin inhibitor
+D00996,Vasoconstrictor
+D00996,Adrenergic receptor agonist
+D01020,Antihypotensive
+D01020,alpha1-Adrenergic receptor agonist
+D01022,Vasoconstrictor
+D01022,alpha1-Adrenergic receptor agonist
+D01024,Antidysuria
+D01024,alpha1-Adrenergic receptor antagonist
+D01051,Antipsychotic
+D01051,Dopamine D2 receptor antagonist
+D01071,Sedative-hypnotic
+D01103,Overactive bladder agent
+D01103,Muscarinic acetylcholine receptor antagonist
+D01118,Antiparkinsonian
+D01118,Muscarinic acetylcholine receptor antagonist
+D01126,Antihyperammonemic
+D01126,Diagnostic agent
+D01164,Antipsychotic
+D01164,Dopamine receptor partial agonist
+D01164,Serotonin receptor agonist/antagonist
+D01227,Antihypertensive
+D01227,Endothelin receptor antagonist
+D01236,Diuretic
+D01236,Vasopressin receptor antagonist
+D01242,Antiallergic
+D01242,H1 receptor antagonist
+D01269,Overactive bladder agent
+D01269,Muscarinic acetylcholine receptor antagonist
+D01295,Anti-emetic
+D01295,Antivertigo
+D01295,H1 receptor antagonist
+D01297,Antisecretory (gastric acid)
+D01297,Anti-ulcerative
+D01297,Muscarinic acetylcholine receptor antagonist
+D01324,Antiallergic
+D01324,Antiasthmatic
+D01324,H1 receptor antagonist
+D01332,Antiallergic
+D01332,Antiasthmatic
+D01332,H1 receptor antagonist
+D01346,Diagnostic aid (pancreas function determination)
+D01352,Oxytocic
+D01352,Prostaglandin F receptor agonist
+D01358,Antidepressant
+D01386,Antitussive
+D01386,Bronchodilator
+D01386,Adrenergic receptor agonist
+D01390,Antivertigo
+D01390,Cardiotonic
+D01390,Bronchodilator
+D01390,beta-Adrenergic receptor agonist
+D01441,Antineoplastic
+D01441,Tyrosine kinase inhibitor
+D01454,Antiglaucoma
+D01454,beta-Adrenergic receptor antagonist
+D01462,Antimigraine
+D01462,Dopamine receptor agonist
+D01603,Antihypertensive
+D01652,Platelet activating factor antagonist
+D01692,Antidysuria
+D01692,Antihypertensive
+D01692,alpha1-Adrenergic receptor antagonist
+D01699,Overactive bladder agent
+D01699,Muscarinic acetylcholine receptor antagonist
+D01712,Bronchodilator
+D01712,Phosphodiesterase inhibitor
+D01713,Antiallergic
+D01713,H1 receptor antagonist
+D01717,Antiallergic
+D01717,H1 receptor antagonist
+D01745,Anti-emetic
+D01745,Prokinetic
+D01745,Dopamine D2 receptor antagonist
+D01782,Antiallergic
+D01782,Antipruritic
+D01782,H1 receptor antagonist
+D01828,Antiallergic
+D01828,Mediator release inhibitor
+D01871,Antiparkinsonian
+D01871,Smooth muscle relaxant
+D01871,Muscarinic acetylcholine receptor antagonist
+D01891,Antisecretory (gastric acid)
+D01891,Anti-ulcerative
+D01891,Prostaglandin receptor agonist
+D01925,Thyrotropin-releasing hormone receptor agonist
+D01964,Antiglaucoma
+D01964,Prostaglandin F receptor agonist
+D01965,Antidysuria
+D01965,alpha1-Adrenergic receptor antagonist
+D01973,Antimigraine
+D01973,Vasoconstrictor
+D01973,Serotonin receptor agonist
+D01994,Prokinetic
+D01994,Serotonin receptor agonist
+D02007,Thyrotropin-releasing hormone receptor agonist
+D02066,Bronchodilator
+D02066,beta-Adrenergic receptor agonist
+D02070,Mydriatic
+D02070,Muscarinic acetylcholine receptor antagonist
+D02076,Antiglaucoma
+D02076,alpha-Adrenergic receptor agonist
+D02082,Antihypertensive
+D02082,Angiotensin II receptor antagonist
+D02147,Bronchodilator
+D02147,beta2-Adrenergic receptor agonist
+D02149,Vasoconstrictor
+D02149,Adrenergic receptor agonist
+D02150,Bronchodilator
+D02150,Cardiotonic
+D02150,beta-Adrenergic receptor agonist
+D02234,Antiallergic
+D02234,Antipruritic
+D02234,H1 receptor antagonist
+D02234,Serotonin receptor antagonist
+D02237,Antihypertensive
+D02237,Noradrenaline release inhibitor
+D02250,Antineoplastic
+D02250,Antisecretory (hormone)
+D02250,Somatostatin receptor agonist
+D02278,Supplement (lysine)
+D02279,Supplement (lysine)
+D02327,Sedative-hypnotic
+D02327,H1 receptor antagonist
+D02338,Antiarrhythmic
+D02338,Antihypertensive
+D02338,Vasodilator
+D02338,beta1-Adrenergic receptor antagonist
+D02340,Minor tranquilizer
+D02340,Dopamine D2 receptor antagonist
+D02340,Serotonin receptor antagonist
+D02342,Antihypertensive
+D02342,beta1-Adrenergic receptor antagonist
+D02349,Antiglaucoma
+D02349,Adrenergic receptor agonist
+D02354,Anti-emetic
+D02354,Antipsychotic
+D02354,Dopamine D2 receptor antagonist
+D02356,Antiarrhythmic
+D02356,Vasodilator
+D02356,Calcium channel blocker
+D02357,Antimigraine
+D02357,Vasoconstrictor
+D02357,Serotonin receptor agonist/antagonist
+D02358,Antihypertensive
+D02358,Vasodilator
+D02358,beta1-Adrenergic receptor antagonist
+D02359,Tocolytic
+D02359,beta2-Adrenergic receptor agonist
+D02361,Sedative-hypnotic
+D02374,Antiglaucoma
+D02374,Antihypertensive
+D02374,beta-Adrenergic receptor antagonist
+D02566,Antidepressant
+D02566,Selective noradrenaline reuptake inhibitor (NRI)
+D02578,Antidepressant
+D02578,Serotonin receptor antagonist
+D02578,Melatonin receptor agonist
+D02588,Thyrotropin-releasing hormone receptor agonist
+D02614,Cardiotonic
+D02614,beta1-Adrenergic receptor agonist
+D02671,Antipsychotic
+D02721,Antihypertensive
+D02721,Platelet aggregation inhibitor
+D02721,Prostaglandin I2 receptor agonist
+D02725,Oxytocic
+D02725,Prostaglandin E2 receptor agonist
+D02826,Antimigraine
+D02826,Serotonin receptor agonist
+D02884,Diuretic
+D02884,Smooth muscle relaxant
+D02910,Antiarrhythmic
+D02910,Potassium channel blocker
+D03165,Antiparkinsonian
+D03165,Dopamine D2 receptor agonist
+D03165,Prolactin inhibitor
+D03187,Bronchodilator
+D03187,Prostaglandin E2 receptor agonist
+D03210,Antiviral
+D03210,CCR5 antagonist
+D03274,Antipsychotic
+D03365,Smoking cessation adjunct
+D03415,Antihypertensive
+D03415,alpha1/beta-Adrenergic receptor antagonist
+D03442,Stimulant (gastric secretory)
+D03490,Antihypertensive
+D03490,beta1-Adrenergic receptor antagonist
+D03503,Anti-ulcerative
+D03503,H2 receptor antagonist
+D03621,Anti-emetic
+D03621,H1 receptor antagonist
+D03642,Immunosuppressant
+D03642,Thromboxane A2 (TXA2) receptor antagonist
+D03654,Overactive bladder agent
+D03654,Muscarinic acetylcholine receptor antagonist
+D03858,Anti-emetic
+D03879,Cardiotonic
+D03879,beta1-Adrenergic receptor agonist
+D03880,Cardiotonic
+D03880,beta1-Adrenergic receptor agonist
+D03881,Cardiotonic
+D03881,beta1-Adrenergic receptor agonist
+D03966,Antianxiety
+D03966,Smoking cessation adjunct
+D03966,Metabotropic glutamate receptor agonist
+D04006,Bronchodilator
+D04006,Adenosine receptor antagonist
+D04034,Antipsychotic
+D04040,Antihypertensive
+D04040,Angiotensin II receptor antagonist
+D04375,Antihypertensive
+D04375,alpha2-Adrenergic receptor agonist
+D04625,Bronchodilator
+D04625,beta2-Adrenergic receptor agonist
+D04716,Analgesic (narcotic)
+D04716,Opioid receptor agonist
+D04979,Antipruritic
+D05113,Antialcohol dependence
+D05113,Narcotic antagonist
+D05113,Opioid receptor antagonist
+D05129,Antiallergic
+D05246,Antihypertensive
+D05246,Angiotensin II receptor antagonist
+D05312,Analgesic (narcotic)
+D05312,Opioid receptor agonist
+D05341,Diagnostic aid (ultrasound contrast medium)
+D05740,Antimigraine
+D05740,Vasoconstrictor
+D05740,Serotonin receptor agonist
+D05792,Bronchodilator
+D05792,beta2-Adrenergic receptor agonist
+D05938,Analgesic (narcotic)
+D05938,Opioid receptor agonist
+D06056,Prokinetic
+D06056,Serotonin receptor agonist
+D06396,Anti-emetic
+D06396,Prokinetic
