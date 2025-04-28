@@ -1,0 +1,428 @@
+KEGG Drug ID,Efficacy and Disease
+D00035,Supplement (proline)
+D00110,Anesthetic (topical)
+D00110,Narcotic
+D00136,Antipsychotic
+D00136,Antidyskinetic
+D00136,Neuroleptic
+D00136,Dopamine D2 receptor antagonist
+D00195,Analgesic (narcotic)
+D00195,Antitussive
+D00195,Opioid receptor agonist
+D00219,Antidiabetic
+D00219,Hypoglycemic
+D00219,Sulfonylurea receptor agonist
+D00225,Antianxiety
+D00225,Minor tranquilizer
+D00225,Sedative-hypnotic
+D00227,Bronchodilator
+D00227,Cardiotonic
+D00227,Phosphodiesterase inhibitor
+D00228,Antidepressant
+D00228,Serotonin-noradrenaline reuptake inhibitor (SNRI)
+D00234,Antiallergic
+D00234,H1 receptor antagonist
+D00252,Analgesic
+D00252,Antiepileptic
+D00274,Prokinetic
+D00274,Serotonin receptor agonist
+D00283,Antipsychotic
+D00293,Antianxiety
+D00293,Minor tranquilizer
+D00293,Sedative-hypnotic
+D00294,Antihypoglycemia
+D00294,Antihypertensive
+D00294,ATP-sensitive potassium channel opener
+D00303,Antiarrhythmic
+D00303,Sodium channel blocker
+D00319,Antihypertensive
+D00319,Vasodilator
+D00319,Calcium channel blocker
+D00326,Antidepressant
+D00326,Selective serotonin reuptake inhibitor (SSRI)
+D00329,Sedative-hypnotic
+D00331,Diuretic
+D00331,Na-K-Cl cotransporter inhibitor
+D00332,Anticonvulsant
+D00332,Antiepileptic
+D00335,Antidiabetic
+D00335,Hypoglycemic
+D00335,Sulfonylurea receptor agonist
+D00336,Antidiabetic
+D00336,Hypoglycemic
+D00338,Sedative-hypnotic
+D00340,Antihypertensive
+D00340,Diuretic
+D00340,Na+-Cl- symport inhibitor
+D00345,Antihypertensive
+D00345,Diuretic
+D00345,Na+-Cl- symport inhibitor
+D00349,Antihypertensive
+D00349,Calcium channel blocker
+D00351,Antifungal
+D00351,Ergosterol biosynthesis inhibitor
+D00354,Anti-bipolar disorder
+D00354,Anticonvulsant
+D00354,Antiepileptic
+D00358,Anesthetic (topical)
+D00358,Antiarrhythmic
+D00358,Sodium channel blocker
+D00364,Antiallergic
+D00364,H1 receptor antagonist
+D00367,Appetite suppressant
+D00373,Antipsychotic
+D00373,Sedative-hypnotic
+D00373,Dopamine D2 receptor antagonist
+D00379,Antidiabetic
+D00379,Hypoglycemic
+D00379,Sulfonylurea receptor agonist
+D00380,Antidiabetic
+D00380,Hypoglycemic
+D00380,Sulfonylurea receptor agonist
+D00392,Antiepileptic
+D00394,Antidepressant
+D00394,Serotonin-noradrenaline reuptake inhibitor (SNRI)
+D00418,Antihypertensive
+D00418,Hair growth stimulant (topical)
+D00418,ATP-sensitive potassium channel opener
+D00437,Antihypertensive
+D00437,Vasodilator
+D00437,Calcium channel blocker
+D00438,Antihypertensive
+D00438,Vasodilator
+D00438,Calcium channel blocker
+D00451,Antimigraine
+D00451,Vasoconstrictor
+D00451,Serotonin receptor agonist
+D00456,Anti-emetic
+D00456,Serotonin 5-HT3 receptor antagonist
+D00464,Minor tranquilizer
+D00474,Antiepileptic
+D00477,Antiarrhythmic
+D00477,Sodium channel blocker
+D00480,Antiallergic
+D00480,Anti-emetic
+D00480,Antiparkinsonian
+D00480,H1 receptor antagonist
+D00495,Anticonvulsant
+D00499,Sedative-hypnotic
+D00504,Anticonvulsant
+D00512,Antiepileptic
+D00513,Antiarrhythmic
+D00513,Antihypertensive
+D00513,Vasodilator
+D00513,beta-Adrenergic receptor antagonist
+D00519,Antihypertensive
+D00519,Diuretic
+D00519,Na+-Cl- symport inhibitor
+D00521,Antiallergic
+D00521,H1 receptor antagonist
+D00524,Antihypertensive (intraocular)
+D00524,Muscarinic acetylcholine receptor agonist
+D00528,Stimulant (central)
+D00528,Adenosine receptor antagonist
+D00528,Phosphodiesterase inhibitor
+D00530,Sedative-hypnotic
+D00533,Anticonvulsant
+D00533,Antiepileptic
+D00536,Antiepileptic
+D00537,Anticonvulsant
+D00537,Antiepileptic
+D00537,Antimigraine
+D00537,AMPA receptor antagonist
+D00538,Anticonvulsant
+D00538,Antiepileptic
+D00539,Antiepileptic
+D00542,Anesthetic (inhalation)
+D00543,Anesthetic (inhalation)
+D00544,Anesthetic (inhalation)
+D00545,Anesthetic (inhalation)
+D00546,Anesthetic (inhalation)
+D00547,Anesthetic (inhalation)
+D00548,Sedative-hypnotic
+D00549,Anesthetic (intravenous)
+D00549,GABA-A receptor agonist
+D00550,Anesthetic (intravenous)
+D00550,Anticonvulsant
+D00550,Sedative-hypnotic
+D00552,Analgesic
+D00552,Anesthetic (topical)
+D00552,Antipruritic
+D00553,Anesthetic (local)
+D00560,Antipsychotic
+D00560,Dopamine receptor antagonist
+D00563,Antidepressant
+D00563,Serotonin receptor antagonist
+D00574,Adrenocortical suppressant
+D00574,Antineoplastic
+D00574,Estrogen biosynthesis inhibitor
+D00593,Antidiabetic
+D00593,Hypoglycemic
+D00593,Sulfonylurea receptor agonist
+D00594,Antidiabetic
+D00594,Hypoglycemic
+D00594,Sulfonylurea receptor agonist
+D00607,Antihypertensive
+D00607,alpha-Adrenergic receptor agonist
+D00611,Antihypertensive
+D00615,Antihypertensive
+D00615,Vasodilator
+D00615,Calcium channel blocker
+D00616,Antiarrhythmic
+D00616,Antihypertensive
+D00616,Vasodilator (coronary)
+D00616,Calcium channel blocker
+D00617,Antihypertensive
+D00617,Vasodilator
+D00617,Calcium channel blocker
+D00618,Antihypertensive
+D00618,Vasodilator
+D00618,Calcium channel blocker
+D00619,Antiarrhythmic
+D00619,Vasodilator
+D00619,Calcium channel blocker
+D00629,Antihypertensive
+D00629,Vasodilator
+D00629,Calcium channel blocker
+D00631,Antiarrhythmic
+D00631,Vasodilator (coronary)
+D00631,Calcium channel blocker
+D00631,Sodium channel blocker
+D00631,Potassium channel blocker
+D00633,Cardiotonic
+D00633,Dopamine receptor agonist
+D00636,Antiarrhythmic
+D00636,Potassium channel blocker
+D00638,Antiarrhythmic
+D00638,Sodium channel blocker
+D00639,Antiarrhythmic
+D00639,Antihypertensive
+D00639,Sodium channel blocker
+D00640,Antiarrhythmic
+D00640,Sodium channel blocker
+D00642,Antiarrhythmic
+D00642,Sodium channel blocker
+D00647,Antiarrhythmic
+D00647,Potassium channel blocker
+D00648,Antiarrhythmic
+D00648,Potassium channel blocker
+D00649,Diuretic
+D00649,Epithelial sodium channel blocker
+D00650,Antihypertensive
+D00650,Diuretic
+D00650,Na+-Cl- symport inhibitor
+D00651,Antihypertensive
+D00651,Diuretic
+D00651,Na+-Cl- symport inhibitor
+D00654,Antihypertensive
+D00654,Diuretic
+D00654,Na+-Cl- symport inhibitor
+D00656,Antihypertensive
+D00656,Diuretic
+D00656,Na+-Cl- symport inhibitor
+D00658,Antihypertensive
+D00658,Diuretic
+D00658,Na+-Cl- symport inhibitor
+D00677,Anti-emetic
+D00677,Serotonin 5-HT3 receptor antagonist
+D00678,Anti-emetic
+D00678,Serotonin 5-HT3 receptor antagonist
+D00694,Antianxiety
+D00694,Minor tranquilizer
+D00697,Antidote (benzodiazepines)
+D00697,Respiratory stimulant
+D00704,Sedative-hypnotic
+D00708,Antiepileptic
+D00709,Antiepileptic
+D00711,Anesthetic (intravenous)
+D00711,NMDA receptor antagonist
+D00726,Anti-emetic
+D00726,Prokinetic
+D00726,Dopamine D2 receptor antagonist
+D00732,Anesthetic (local)
+D00733,Anesthetic (local)
+D00735,Anesthetic (topical)
+D00738,Anesthetic (local)
+D00739,Analgesic (topical)
+D00739,Anesthetic (topical)
+D00740,Anesthetic (local)
+D00741,Anesthetic (local)
+D00759,Anesthetic (adjunct)
+D00759,Neuromuscular blocking agent
+D00760,Neuromuscular blocking agent
+D00761,Skeletal muscle relaxant
+D00761,Neuromuscular blocking agent
+D00765,Skeletal muscle relaxant
+D00765,Neuromuscular blocking agent
+D00765,Muscarinic acetylcholine receptor antagonist
+D00771,Skeletal muscle relaxant
+D00775,Nerve cells protectant
+D00779,Antiparkinsonian
+D00779,Muscarinic acetylcholine receptor antagonist
+D00791,Antipsychotic
+D00791,Dopamine D2 receptor antagonist
+D00798,Antipsychotic
+D00798,Sedative-hypnotic
+D00798,Dopamine D2 receptor antagonist
+D00799,Antipsychotic
+D00799,Sedative-hypnotic
+D00799,Dopamine D2 receptor antagonist
+D00809,Antidepressant
+D00812,Antidepressant
+D00812,Serotonin-noradrenaline reuptake inhibitor (SNRI)
+D00816,Antidepressant
+D00816,Serotonin-noradrenaline reuptake inhibitor (SNRI)
+D00823,Antidepressant
+D00823,Selective serotonin reuptake inhibitor (SSRI)
+D00831,Antimalarial
+D00960,Antineoplastic
+D00960,Estrogen biosynthesis inhibitor
+D00963,Antineoplastic
+D00963,Estrogen biosynthesis inhibitor
+D00964,Antineoplastic
+D00964,Estrogen biosynthesis inhibitor
+D01071,Sedative-hypnotic
+D01108,Antiarrhythmic
+D01108,Laxative
+D01108,Replenisher (electrolyte)
+D01111,Antidiabetic
+D01111,Hypoglycemic
+D01111,Sulfonylurea receptor agonist
+D01118,Antiparkinsonian
+D01118,Muscarinic acetylcholine receptor antagonist
+D01242,Antiallergic
+D01242,H1 receptor antagonist
+D01243,Anesthetic (local)
+D01253,Anticonvulsant
+D01253,Minor tranquilizer
+D01256,Antihypertensive
+D01256,Diuretic
+D01275,Antineoplastic
+D01275,Topoisomerase II inhibitor
+D01287,Anesthetic (local)
+D01287,Analgesic
+D01295,Anti-emetic
+D01295,Antivertigo
+D01295,H1 receptor antagonist
+D01350,Antibacterial (tuberculostatic)
+D01350,Antibiotic
+D01350,Protein biosynthesis inhibitor
+D01448,Antipsychotic
+D01448,Dopamine D2 receptor antagonist
+D01450,Anesthetic (local)
+D01453,Stimulant (central)
+D01453,Adenosine receptor antagonist
+D01453,Phosphodiesterase inhibitor
+D01575,Antiseptic
+D01575,Disinfectant
+D01599,Antidiabetic
+D01599,Hypoglycemic
+D01599,Sulfonylurea receptor agonist
+D01603,Antihypertensive
+D01712,Bronchodilator
+D01712,Phosphodiesterase inhibitor
+D01768,Anesthetic (topical)
+D01799,Antidiabetic
+D01799,Hypoglycemic
+D01799,Sulfonylurea receptor agonist
+D01828,Antiallergic
+D01828,Mediator release inhibitor
+D01854,Antidiabetic
+D01854,Hypoglycemic
+D01854,Sulfonylurea receptor agonist
+D01969,Vasodilator
+D01969,Calcium channel blocker
+D02041,Anti-emetic
+D02041,Serotonin 5-HT3 receptor antagonist
+D02086,Anesthetic (local)
+D02086,Antiarrhythmic
+D02086,Sodium channel blocker
+D02087,Antiarrhythmic
+D02087,Sodium channel blocker
+D02088,Antiarrhythmic
+D02088,Sodium channel blocker
+D02092,Prokinetic
+D02092,Serotonin receptor agonist
+D02098,Anesthetic (topical
+D02098,ophthalmic)
+D02101,Analgesic (narcotic)
+D02101,Antitussive
+D02101,Opioid receptor agonist
+D02163,Antipsychotic
+D02163,Dopamine D2 receptor antagonist
+D02173,Dementia therapeutic agent
+D02173,Acetylcholinesterase inhibitor
+D02204,Antihypertensive
+D02204,Nicotinic acetylcholine receptor antagonist
+D02207,Neuromuscular blocking agent
+D02234,Antiallergic
+D02234,Antipruritic
+D02234,H1 receptor antagonist
+D02234,Serotonin receptor antagonist
+D02237,Antihypertensive
+D02237,Noradrenaline release inhibitor
+D02253,Sedative-hypnotic
+D02261,Antimalarial
+D02262,Antimalarial
+D02272,Antiarrhythmic
+D02272,Sodium channel blocker
+D02347,Skeletal muscle relaxant
+D02356,Antiarrhythmic
+D02356,Vasodilator
+D02356,Calcium channel blocker
+D02360,Antidepressant
+D02360,Selective serotonin reuptake inhibitor (SSRI)
+D02362,Antidepressant
+D02362,Selective serotonin reuptake inhibitor (SSRI)
+D02409,Stimulant (central)
+D02461,Antibacterial
+D02461,Cell wall biosynthesis inhibitor
+D02485,Antimalarial
+D02546,Anthelmintic
+D02566,Antidepressant
+D02566,Selective noradrenaline reuptake inhibitor (NRI)
+D02630,Antipsychotic
+D02914,Antihypertensive
+D02914,Vasodilator
+D02914,Calcium channel blocker
+D03037,Antiarrhythmic
+D03037,Potassium channel blocker
+D03180,Sedative-hypnotic
+D03274,Antipsychotic
+D03365,Smoking cessation adjunct
+D03450,Vasodilator (peripheral)
+D03580,Analgesic (narcotic)
+D03580,Antitussive
+D03580,Opioid receptor agonist
+D03742,Antitussive
+D03826,Acetylcholinesterase inhibitor (ophthalmic)
+D03830,Antiarrhythmic
+D03830,Antihypertensive
+D03830,Vasodilator (coronary)
+D03830,Calcium channel blocker
+D03878,Neuroprotectant
+D03991,Antiarrhythmic
+D03991,Sodium channel blocker
+D04034,Antipsychotic
+D04048,Anesthetic (local)
+D04370,Anti-emetic
+D04370,Serotonin 5-HT3 receptor antagonist
+D04790,Peristaltic accelerator
+D04790,Softener
+D04790,Clc chloride channel inhibitor
+D04985,Anesthetic
+D04985,Sedative-hypnotic
+D04999,Stimulant (central)
+D05024,Vasodilator
+D05024,Calcium channel blocker
+D05077,Antiarrhythmic
+D05077,Cardiac depressant
+D05077,Sodium channel blocker
+D05156,Smoking cessation adjunct
+D05453,Anesthetic
+D05458,Appetite suppressant
+D05461,Antibacterial
+D05461,Nucleic acid biosynthesis inhibitor
+D06106,Anesthetic (intravenous)
+D06172,Antiarrhythmic
+D06172,Sodium channel blocker

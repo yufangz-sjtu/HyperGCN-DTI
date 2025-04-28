@@ -1,0 +1,5 @@
+accuracy,roc,pr,precision,recall,f1
+"tensor(0.9951, device='cuda:0', dtype=torch.float64)",1.0,1.0,1.0,0.9873134328358208,0.9936162223056703
+"tensor(1., device='cuda:0', dtype=torch.float64)",1.0,1.0,1.0,1.0,1.0
+"tensor(0.9962, device='cuda:0', dtype=torch.float64)",0.9999461429510768,0.9998240170406466,0.9935064935064936,0.9902912621359223,0.9918962722852512
+"tensor(1., device='cuda:0', dtype=torch.float64)",1.0,1.0,1.0,1.0,1.0

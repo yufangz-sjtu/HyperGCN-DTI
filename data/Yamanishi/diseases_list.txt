@@ -1,0 +1,96 @@
+Pathways in cancer
+Transcriptional misregulation in cancer
+MicroRNAs in cancer
+Proteoglycans in cancer
+Chemical carcinogenesis - DNA adducts
+Chemical carcinogenesis - receptor activation
+Chemical carcinogenesis - reactive oxygen species
+Viral carcinogenesis
+Central carbon metabolism in cancer
+Choline metabolism in cancer
+PD-L1 expression and PD-1 checkpoint pathway in cancer
+Colorectal cancer
+Pancreatic cancer
+Hepatocellular carcinoma
+Gastric cancer
+Glioma
+Thyroid cancer
+Acute myeloid leukemia
+Chronic myeloid leukemia
+Basal cell carcinoma
+Melanoma
+Renal cell carcinoma
+Bladder cancer
+Prostate cancer
+Endometrial cancer
+Breast cancer
+Small cell lung cancer
+Non-small cell lung cancer
+Human T-cell leukemia virus 1 infection
+Human immunodeficiency virus 1 infection
+Hepatitis B
+Hepatitis C
+Coronavirus disease - COVID-19
+Influenza A
+Measles
+Herpes simplex virus 1 infection
+Human cytomegalovirus infection
+Kaposi sarcoma-associated herpesvirus infection
+Epstein-Barr virus infection
+Human papillomavirus infection
+Vibrio cholerae infection
+Epithelial cell signaling in Helicobacter pylori infection
+Pathogenic Escherichia coli infection
+Salmonella infection
+Shigellosis
+Yersinia infection
+Pertussis
+Legionellosis
+Staphylococcus aureus infection
+Tuberculosis
+Bacterial invasion of epithelial cells
+Amoebiasis
+Malaria
+Toxoplasmosis
+Leishmaniasis
+Chagas disease
+African trypanosomiasis
+Asthma
+Systemic lupus erythematosus
+Rheumatoid arthritis
+Autoimmune thyroid disease
+Inflammatory bowel disease
+Allograft rejection
+Graft-versus-host disease
+Primary immunodeficiency
+Alzheimer disease
+Parkinson disease
+Amyotrophic lateral sclerosis
+Huntington disease
+Spinocerebellar ataxia
+Prion disease
+Pathways of neurodegeneration - multiple diseases
+Cocaine addiction
+Amphetamine addiction
+Morphine addiction
+Nicotine addiction
+Alcoholism
+Lipid and atherosclerosis
+Fluid shear stress and atherosclerosis
+Hypertrophic cardiomyopathy
+Arrhythmogenic right ventricular cardiomyopathy
+Dilated cardiomyopathy
+Diabetic cardiomyopathy
+Viral myocarditis
+Type II diabetes mellitus
+Type I diabetes mellitus
+Maturity onset diabetes of the young
+Alcoholic liver disease
+Non-alcoholic fatty liver disease
+Insulin resistance
+AGE-RAGE signaling pathway in diabetic complications
+Cushing syndrome
+EGFR tyrosine kinase inhibitor resistance
+Platinum drug resistance
+Antifolate resistance
+Endocrine resistance

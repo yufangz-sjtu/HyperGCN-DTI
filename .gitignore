@@ -1,0 +1,10 @@
+# 忽略 data 文件夹
+data/BindingDB
+data/chembel
+data/drugbank
+data/DrugBank_data.csv
+data/hsa_MTI.csv
+Figures
+without_HD_results
+without_HDP_results
+without_HP_results

@@ -1,0 +1,17 @@
+seed: 47
+in_size: 512
+hidden_size: 256
+out_size: 128
+dropout: 0.5
+lr: 0.0003
+weight_decay: 1e-10
+epochs: 100
+reg_loss_co: 0.0002
+fold: 0
+batch_size: 20
+negative_ratio: 1
+feature_list: [1,2]
+device: 'cuda'
+save_dir: "/data/zyf/HyperGCN-DTI/savedmodel/"
+results_dir: "/data/zyf/HyperGCN-DTI/results/"
+

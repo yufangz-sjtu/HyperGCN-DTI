@@ -1,0 +1,96 @@
+H D  05200  Pathways in cancer
+H D  05202  Transcriptional misregulation in cancer
+H D  05206  MicroRNAs in cancer
+H D  05205  Proteoglycans in cancer
+H D  05204  Chemical carcinogenesis - DNA adducts
+H D  05207  Chemical carcinogenesis - receptor activation
+H D  05208  Chemical carcinogenesis - reactive oxygen species
+H D  05203  Viral carcinogenesis
+H D  05230  Central carbon metabolism in cancer
+H D  05231  Choline metabolism in cancer
+H D  05235  PD-L1 expression and PD-1 checkpoint pathway in cancer
+H D  05210  Colorectal cancer
+H D  05212  Pancreatic cancer
+H D  05225  Hepatocellular carcinoma
+H D  05226  Gastric cancer
+H D  05214  Glioma
+H D  05216  Thyroid cancer
+H D  05221  Acute myeloid leukemia
+H D  05220  Chronic myeloid leukemia
+H D  05217  Basal cell carcinoma
+H D  05218  Melanoma
+H D  05211  Renal cell carcinoma
+H D  05219  Bladder cancer
+H D  05215  Prostate cancer
+H D  05213  Endometrial cancer
+H D  05224  Breast cancer
+H D  05222  Small cell lung cancer
+H D  05223  Non-small cell lung cancer
+H D  05166  Human T-cell leukemia virus 1 infection
+H D  05170  Human immunodeficiency virus 1 infection
+H D  05161  Hepatitis B
+H D  05160  Hepatitis C
+H D  05171  Coronavirus disease - COVID-19
+H D  05164  Influenza A
+H D  05162  Measles
+H D  05168  Herpes simplex virus 1 infection
+H D  05163  Human cytomegalovirus infection
+H D  05167  Kaposi sarcoma-associated herpesvirus infection
+H D  05169  Epstein-Barr virus infection
+H D  05165  Human papillomavirus infection
+H D  05110  Vibrio cholerae infection
+H D  05120  Epithelial cell signaling in Helicobacter pylori infection
+H D  05130  Pathogenic Escherichia coli infection
+H D  05132  Salmonella infection
+H D  05131  Shigellosis
+H D  05135  Yersinia infection
+H D  05133  Pertussis
+H D  05134  Legionellosis
+H D  05150  Staphylococcus aureus infection
+H D  05152  Tuberculosis
+H D  05100  Bacterial invasion of epithelial cells
+H D  05146  Amoebiasis
+H D  05144  Malaria
+H D  05145  Toxoplasmosis
+H D  05140  Leishmaniasis
+H D  05142  Chagas disease
+H D  05143  African trypanosomiasis
+H D  05310  Asthma
+H D  05322  Systemic lupus erythematosus
+H D  05323  Rheumatoid arthritis
+H D  05320  Autoimmune thyroid disease
+H D  05321  Inflammatory bowel disease
+H D  05330  Allograft rejection
+H D  05332  Graft-versus-host disease
+H D  05340  Primary immunodeficiency
+H D  05010  Alzheimer disease
+H D  05012  Parkinson disease
+H D  05014  Amyotrophic lateral sclerosis
+H D  05016  Huntington disease
+H D  05017  Spinocerebellar ataxia
+H D  05020  Prion disease
+H D  05022  Pathways of neurodegeneration - multiple diseases
+H D  05030  Cocaine addiction
+H D  05031  Amphetamine addiction
+H D  05032  Morphine addiction
+H D  05033  Nicotine addiction
+H D  05034  Alcoholism
+H D  05417  Lipid and atherosclerosis
+H D  05418  Fluid shear stress and atherosclerosis
+H D  05410  Hypertrophic cardiomyopathy
+H D  05412  Arrhythmogenic right ventricular cardiomyopathy
+H D  05414  Dilated cardiomyopathy
+H D  05415  Diabetic cardiomyopathy
+H D  05416  Viral myocarditis
+H D  04930  Type II diabetes mellitus
+H D  04940  Type I diabetes mellitus
+H D  04950  Maturity onset diabetes of the young
+H D  04936  Alcoholic liver disease
+H D  04932  Non-alcoholic fatty liver disease
+H D  04931  Insulin resistance
+H D  04933  AGE-RAGE signaling pathway in diabetic complications
+H D  04934  Cushing syndrome
+H D  01521  EGFR tyrosine kinase inhibitor resistance
+H D  01524  Platinum drug resistance
+H D  01523  Antifolate resistance
+H D  01522  Endocrine resistance
