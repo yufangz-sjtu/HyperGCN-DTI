@@ -11,39 +11,86 @@ HyperGCN-DTI is a novel framework that leverages hypergraph neural networks comb
 ---
 
 ## Project Structure
-HyperGCN-DTI/ ├── codes/ # 模型训练、测试及评估脚本 ├── data/ # 药物与靶点数据集 (本地存放，未上传) ├── Figures/ # 绘制的分析图表 ├── graph_structure/ # 超图结构相关的中间文件 ├── results/ # 实验输出结果 ├── savedmodel/ # 训练得到的模型权重文件 ├── requirements.txt # Python依赖包列表 ├── README.md # 项目说明文件 └── LICENSE # 项目许可证 (MIT License)
+
+```
+HyperGCN-DTI/
+├── codes/           # Scripts for model training, testing, and evaluation
+├── data/            # Drug and target datasets (not uploaded due to size)
+├── Figures/         # Analysis figures
+├── graph_structure/ # Intermediate files related to hypergraph structures
+├── results/         # Experimental output results
+├── savedmodel/      # Trained model weight files
+├── requirements.txt # Python dependency list
+├── README.md        # Project description file
+└── LICENSE          # Project license (MIT License)
+```
 
 ## Quick Start
 
 1. Clone the repository:
    ```bash
+   conda create -n my_env
+   pip install -r requirements.txt
    git clone https://github.com/yufangz-sjtu/HyperGCN-DTI.git
    cd HyperGCN-DTI
    ```
 
 2. Prepare the datasets:
+   - Due to the large size of the data, the `data/BindingDB` folder is not uploaded to GitHub.
+   - Please contact the authors to obtain the data or refer to the **Data Description** section to manually download and place the files in the `data/` folder.
 
-Due to the large size of the data, the data/ folder is not uploaded to GitHub.
-Please contact the authors to obtain the data or refer to the Data Description section to manually download and place the files in the data/ folder.
+3. Train and evaluate the model:
+   ```bash
+   python codes/main.py
+   ```
 
-3.Train and evaluate the model:
+---
 
-## Model training and evaluation
+## Data Description
 
-python codes/main.py
+The `data/` directory should include the following files:
 
-Data Description
-The data/ directory should include the following:
+### Drug-related files:
+- **`drug.txt`**: List of drugs.
+- **`drug_smiles.csv`**: SMILES representations of drugs.
+- **`drug_dict_map.txt`**: Mapping of drug IDs to indices.
+- **`mat_drug_drug.txt`**: Drug-drug similarity matrix.
+- **`mat_drug_disease.txt`**: Drug-disease association matrix.
+- **`mat_drug_se.txt`**: Drug-side effect association matrix.
 
-Drug features
-Target features
-Interaction matrices
-All input data must meet the preprocessing requirements specified in codes/preprocess.py.
-⚠️ Note: Ensure that the file names and formats match the paths and requirements in the code.
+### Protein-related files:
+- **`protein.txt`**: List of proteins.
+- **`protein_seq.csv`**: Protein sequences.
+- **`protein_seq_with_features.csv`**: Protein sequences with extracted features.
+- **`protein_dict_map.txt`**: Mapping of protein IDs to indices.
+- **`mat_protein_protein.txt`**: Protein-protein similarity matrix.
+- **`mat_protein_disease.txt`**: Protein-disease association matrix.
 
-Experimental Results
-HyperGCN-DTI has been validated on multiple datasets, demonstrating its effectiveness.
-Compared to standard GCN and KNN methods, HyperGCN-DTI achieves improvements in both AUC and AUPR metrics.
+### Drug-Target Interaction (DTI) files:
+- **`dti_index.txt`**: Drug-target interaction indices.
+- **`dtiedge.txt`**: Drug-target interaction edges.
+- **`imbalanced_X_dti_index.txt`**: Imbalanced DTI indices for different configurations (e.g., `X=1, 2, 3, 4, 5`).
+- **`imbalancedX_dtiedge.txt`**: Imbalanced DTI edges for different configurations.
 
-License
-This project is open-sourced under the MIT License.
+### Similarity matrices:
+- **`Similarity_Matrix_Drugs.txt`**: Drug similarity matrix.
+- **`Similarity_Matrix_Proteins.txt`**: Protein similarity matrix.
+
+### Other files:
+- **`disease.txt`**: List of diseases.
+- **`se.txt`**: List of side effects.
+
+⚠️ **Note**: Ensure that all files are placed in the `data/` directory and meet the preprocessing requirements specified in `codes/preprocess.py`.
+
+---
+
+## Experimental Results
+
+HyperGCN-DTI has been validated on multiple datasets, demonstrating its effectiveness.  
+Compared to standard GCN and KNN methods, HyperGCN-DTI achieves significant improvements in both AUC and AUPR metrics.
+
+---
+
+## License
+
+This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
